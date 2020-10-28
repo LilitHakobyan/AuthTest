@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityServerDemo.Server", "..\IdentityServerDemo.Server\IdentityServerDemo.Server.csproj", "{83B3A84B-32C0-49E5-88E3-7AEA18E76DE2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthApiDemo", "..\AuthApiDemo\AuthApiDemo.csproj", "{75D40841-5FF0-4357-841B-CA6E47B581F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83B3A84B-32C0-49E5-88E3-7AEA18E76DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83B3A84B-32C0-49E5-88E3-7AEA18E76DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83B3A84B-32C0-49E5-88E3-7AEA18E76DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83B3A84B-32C0-49E5-88E3-7AEA18E76DE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75D40841-5FF0-4357-841B-CA6E47B581F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D40841-5FF0-4357-841B-CA6E47B581F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D40841-5FF0-4357-841B-CA6E47B581F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D40841-5FF0-4357-841B-CA6E47B581F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D7A201B-3B88-461F-B791-7154922413DF}
+	EndGlobalSection
+EndGlobal
